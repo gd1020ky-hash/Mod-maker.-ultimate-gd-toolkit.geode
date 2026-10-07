@@ -1,0 +1,9 @@
+{
+  "geode": "5.10.1",
+  "gd": { "android": "2.2081" },
+  "id": "you.gdtoolkit",
+  "name": "Ultimate GD Toolkit",
+  "version": "v1.0.0",
+  "developer": "NaNGD",
+  "description": "All-in-one mod menu: macro, speed, frame counter, auto deco, AI build",
+  "resources": { "sprites": ["btn.png"] }
